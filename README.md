@@ -1,4 +1,4 @@
-## Notas del Parche - Versión 1.1.0
+## Notas del Parche - Versión 1.2
 
 **Nuevas Funcionalidades:**
 
